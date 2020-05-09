@@ -100,8 +100,17 @@
             <artifactId>retrievedcacheditem</artifactId>
             <version>1.0.1</version>
         </dependency>
+        <dependency>
+            <groupId>removedcacheditem</groupId>
+            <artifactId>removedcacheditem</artifactId>
+            <version>1.0.8</version>
+        </dependency>
+        <dependency>
+            <groupId>identifiedcacheditem</groupId>
+            <artifactId>identifiedcacheditem</artifactId>
+            <version>1.0.0</version>
+        </dependency>
     </dependencies>
-
 
     <build>
         <plugins>
